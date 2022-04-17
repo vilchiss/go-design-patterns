@@ -7,4 +7,5 @@ de Mario Castro Contreras.
 
 # Creacioneales
 
-1. [Singleton](https://es.wikipedia.org/wiki/Singleton)
+1. [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern)
+2. [Builder](https://en.wikipedia.org/wiki/Builder_pattern)
